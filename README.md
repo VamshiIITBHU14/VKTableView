@@ -12,4 +12,6 @@ This project covers:</br>
 
 Written in Swift 4 Syntax.
 
-![hi](https://user-images.githubusercontent.com/21070922/36495023-e882f422-1759-11e8-9d4a-3b1412c73912.gif)
+
+![hello](https://user-images.githubusercontent.com/21070922/36495563-b2a2ecd4-175b-11e8-82c3-153b0a3c05d8.gif)
+
