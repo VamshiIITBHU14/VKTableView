@@ -6,3 +6,8 @@ Would love your feedback. Please have a look at GIF attached to have a better id
 
 This project covers:</br>
 
+1) Compress bigger sized images and put in a nice UICollectionView with parallax effect. </br>
+2) It also covers adding a fancy expanding cell to UICollectionView, several auto layout-based labels, subtle parallax effects, and fading transitions to a standard Collection View. 
+3) Animating Autolayout Constraints with nice spring effects.
+
+Written in Swift 4 Syntax.
